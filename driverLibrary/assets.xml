@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="testAliad" local="true" recno="0" sourceType="database" type="DATABANK">
+<database driver="oracle.jdbc.OracleDriver" encryptMethod="obfuscated" pswd="qCboggnQnRP3QOdviGrewg==" sql="select * from dual;" url="jdbc:oracle:thin:@https:sample.com:1521:" user="test"/>
+</asset>
+</assets>
